@@ -1,0 +1,7 @@
+This is a text file containing just text.
+
+I could have used actual code instead, but who actually cares?
+
+Lok at all of this tex.
+
+There's not actually that much text.
